@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeetHemnani
 - 👀 I’m interested in Atificial Intelligence And Machine Learning And Coming Advance Technologies.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,UI/UX design and Python for machine learning
 - 💞️ I’m looking to collaborate on all social media handels
 - 📫 How to reach me on my social media handels mention in my profile
 
